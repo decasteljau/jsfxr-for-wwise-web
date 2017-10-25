@@ -10,7 +10,7 @@ To run, download or clone the complete repository and double-click index.html.
 
 ## Importing sounds to Wwise
 
-*Important Note**: jsfxr-for-wwise-web works with Wwise 2017.2.x and up. It uses WAAPI functionality not available in 2017.1.x.
+**Important Note**: jsfxr-for-wwise-web works with Wwise 2017.2.x and up. It uses WAAPI functionality not available in 2017.1.x.
 
 First, ensure WAAPI is enabled in Wwise:
  - menu **Project/Preferences**
