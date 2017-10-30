@@ -10,32 +10,32 @@ To run, download or clone the complete repository and double-click index.html.
 
 ## Importing sounds to Wwise
 
-**Important Note**: jsfxr-for-wwise-web works with Wwise 2017.2.x and up. It uses WAAPI functionality not available in 2017.1.x.
+**Important Note**: jsfxr-for-wwise-web works with Wwise **2017.2.x** and up. It uses WAAPI functionality not available in 2017.1.x.
 
 First, ensure WAAPI is enabled in Wwise:
- - menu **Project/Preferences**
- - Check **Enable Wwise Authoring API**
- - Click **OK**
- - Restart Wwise
+
+- menu **Project/Preferences**
+- Check **Enable Wwise Authoring API**
+- Click **OK**
+- Restart Wwise
 
 Then, open a Wwise Project. Note that every imported sound will be in the **Default Work Unit**.
 
 To import sound to Wwise:
- - Start jsfxr
- - Generate a sound
- - Click the **Send to Wwise** button OR press **W**
+
+- Start jsfxr
+- Generate a sound
+- Click the **Send to Wwise** button OR press **W**
 
 ## About jsfxr
 
 Quick 'n' easy game sound effects generator.
-A port of sfxr: http://www.drpetter.se/project_sfxr.html to HTML5.
-
+A port of sfxr: [http://www.drpetter.se/project_sfxr.html](http://www.drpetter.se) to HTML5.
 
 ### Links
 
 Application:  http://github.grumdrig.com/jsfxr/
 Source code:  https://github.com/grumdrig/jsfxr/
-
 
 ### Thanks
 
